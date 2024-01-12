@@ -1,5 +1,5 @@
 # Test-Jupyter-Notebook
-Hello, these are my files for my test how to use a Jupyter Notebook
+Hello, this is my Jupyter Notebook for the Data Science Tools and Ecosystems Test
 
 Thanks,
 Niccolò
